@@ -1,0 +1,11 @@
+{
+    "name": "RocketRemote",
+    "version": "0.1.0",
+    "title": "Rocket Remote",
+    "author": "chrschorn",
+    "contact": "christoph.schorn@gmail.com",
+    "homepage": "",
+    "description": "Adds a way to launch rockets remotely.",
+    "dependencies": [],
+    "factorio_version": "0.14"
+}
